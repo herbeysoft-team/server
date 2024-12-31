@@ -126,4 +126,4 @@ def search():
     
 # For local testing (optional)
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
